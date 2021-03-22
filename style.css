@@ -1,0 +1,21 @@
+.p_width {
+    width: 49%;
+}
+.p1 {
+    margin-top: 20px;
+    margin-right: 200px;
+}
+.p2 {
+    margin-left: 200px;
+    margin-bottom: 200px;
+}
+body {
+    text-align: center;
+    background-color: #b7b7a4;
+}
+#showParagraph1 {
+    font-size: 30px;
+}
+#showParagraph2 {
+    font-size: 30px;
+}
